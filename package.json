@@ -1,6 +1,6 @@
 {
   "name": "simple-uploader",
-  "version": "2.0.8-getqujing",
+  "version": "2.0.8",
   "description": "A HTML5 upload component without UI",
   "keywords": "upload",
   "repository": {
@@ -15,8 +15,8 @@
   "main": "lib/uploader.js",
   "homepage": "https://github.com/mycolorway/simple-uploader",
   "dependencies": {
-    "jquery": "^3.1.1",
-    "simple-module": "https://github.com/nickhsu/simple-module.git"
+    "jquery": "2.x",
+    "simple-module": "~2.0.5"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
